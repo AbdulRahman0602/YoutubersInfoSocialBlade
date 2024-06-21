@@ -14,8 +14,8 @@ This project extracts YouTube channel data from Social Blade using BeautifulSoup
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/social-blade-data-extraction.git
-    cd social-blade-data-extraction
+    git clone https://github.com/AbdulRahman0602/YoutubersInfoSocialBlade.git
+    cd You Path
     ```
 
 2. Create and activate a virtual environment (optional but recommended):
