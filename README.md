@@ -8,7 +8,7 @@ This project extracts YouTube channel data from Social Blade using BeautifulSoup
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Example Output](#example-output)
-- [License](#license)
+
 
 ## Installation
 
