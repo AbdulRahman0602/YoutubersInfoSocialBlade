@@ -23,7 +23,7 @@ pip install beautifulsoup4 requests python-docx openpyxl reportlab
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/AbdulRahman0602/YoutubersInfoSocialBlade.git
    cd repository
    ```
 
